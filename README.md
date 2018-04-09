@@ -1,2 +1,2 @@
 # AIcourse
-all things in Artificial intelligence course
+exercises of artificial intelligence course
